@@ -1,0 +1,13 @@
+@import "./_veriables";
+@import"./_mixins";
+
+#header{
+	.header-content{
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		.header-logo{
+			font-size: 17px;
+		}
+	}
+}

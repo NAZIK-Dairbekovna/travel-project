@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul, li {
+  list-style: none;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+body {
+  font-size: 16px;
+}
+
+#header .header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#header .header-content .header-logo {
+  font-size: 17px;
+}
+
+/*# sourceMappingURL=style.css.map */
